@@ -11,6 +11,6 @@ I'm Leon, and I study Physics. This is my personal profile for my small projects
 * Python
 * Basic database knowledge (SQL)
 
---
+---
 ### Current Projects
 * Tichu App iOS Client and backend
