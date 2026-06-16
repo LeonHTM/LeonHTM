@@ -1,6 +1,6 @@
 ## LeonHTM
 
-I'm Leon, and I study Physics. This is my personal profile for my small projects. I mostly develop for Apple platforms, but I would also love to branch out into Android development in the future.
+I'm Leon, and I study Physics. This is my personal profile for my small projects. I mostly develop for Apple platforms, but I would love to branch out into Android development in the future.
 
 ---
 
