@@ -10,6 +10,7 @@ I'm Leon, and I study Physics. This is my personal profile for my small projects
 * C++
 * Python
 * Basic database knowledge (SQL)
+* Basic Web Stuff Knowledge (HTML,CSS)
 
 ---
 ### Current Projects
