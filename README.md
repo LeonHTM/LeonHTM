@@ -14,4 +14,4 @@ I'm Leon, and I study Physics. This is my personal profile for my small projects
 
 ---
 ### Current Projects
-* Tichu App iOS Client and backend
+* TichuStats iOS Client and Server
