@@ -10,8 +10,9 @@ Hello. I'm Leon, and I study Physics. This is my personal profile for my small p
 * C++
 * Python
 * Basic database knowledge (SQL)
-* Basic Web Stuff Knowledge (HTML,CSS)
+* Basic web technologies knowledge (HTML,CSS)
 
 ---
 ### Current Projects
 * TichuStats iOS Client and Server
+* TichuStats Android Client
